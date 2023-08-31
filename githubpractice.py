@@ -1,4 +1,4 @@
 # Creating a project for Github
-# By James Nichols
+# By Alex Bradley
 
-print("COP3337 Fall 2030")
+print("COP3337 Fall 2023")
